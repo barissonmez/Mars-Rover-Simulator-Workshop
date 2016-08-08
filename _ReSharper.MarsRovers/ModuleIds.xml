@@ -1,0 +1,14 @@
+<Modules>
+  <Module PersistentId="2825752E-1687-4ADA-903C-5E3D2AB62E79" ModuleId="MarsRovers.Entity" />
+  <Module PersistentId="E038C1D8-545A-411A-8096-FC4265B96AC0" ModuleId="MarsRovers.Repository" />
+  <Module PersistentId="10ECC24E-B66D-4C4F-BCF9-4CF05BF8F480" ModuleId="MarsRovers.Test" />
+  <Module PersistentId="379C687A-4184-4283-BFCA-E725DC18815C" ModuleId="MarsRovers.Helper" />
+  <Module PersistentId="DD075013-7DC0-4074-9ED1-F83324E0274E" ModuleId="MarsRovers.DTO" />
+  <Module PersistentId="76D5A544-49DB-4288-BC71-EFFB48FCF0E7" ModuleId="MarsRovers.DTO_1" />
+  <Module PersistentId="57D027B9-E1F9-448A-8651-72D345E2E0A0" ModuleId="MarsRovers.Service" />
+  <Module PersistentId="B6C9E041-89D5-49C8-A5E2-9E00FF9AFCAC" ModuleId="MarsRovers.UI.Console" />
+  <Module PersistentId="6D188B6C-27D5-4F49-957D-64F3264DEF79" ModuleId="MarsRovers.IOC" />
+  <Module PersistentId="149A89BC-97CA-4E2E-9B54-D4C55AECF6C1" ModuleId="MarsRovers.IOC_1" />
+  <Module PersistentId="01AEBA1D-346C-42FA-B033-1668B0D3D0D2" ModuleId="MarsRovers.Server.SignalR" />
+  <Module PersistentId="91362AFE-48A0-4A79-AEC4-3225973401A7" ModuleId="MarsRovers.UI.RoverMonitor" />
+</Modules>

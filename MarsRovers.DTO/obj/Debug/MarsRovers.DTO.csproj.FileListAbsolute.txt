@@ -1,0 +1,8 @@
+D:\Challanges\MarsRovers\MarsRovers.DTO\bin\Debug\MarsRovers.DTO.dll
+D:\Challanges\MarsRovers\MarsRovers.DTO\bin\Debug\MarsRovers.DTO.pdb
+D:\Challanges\MarsRovers\MarsRovers.DTO\bin\Debug\MarsRovers.Common.dll
+D:\Challanges\MarsRovers\MarsRovers.DTO\bin\Debug\RPGKit.FantasyNameGenerator.dll
+D:\Challanges\MarsRovers\MarsRovers.DTO\bin\Debug\MarsRovers.Common.pdb
+D:\Challanges\MarsRovers\MarsRovers.DTO\obj\Debug\MarsRovers.DTO.csprojResolveAssemblyReference.cache
+D:\Challanges\MarsRovers\MarsRovers.DTO\obj\Debug\MarsRovers.DTO.dll
+D:\Challanges\MarsRovers\MarsRovers.DTO\obj\Debug\MarsRovers.DTO.pdb

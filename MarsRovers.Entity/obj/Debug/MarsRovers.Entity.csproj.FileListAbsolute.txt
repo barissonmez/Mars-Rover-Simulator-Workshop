@@ -1,0 +1,8 @@
+D:\Challanges\MarsRovers\MarsRovers.Entity\bin\Debug\MarsRovers.Entity.dll
+D:\Challanges\MarsRovers\MarsRovers.Entity\bin\Debug\MarsRovers.Entity.pdb
+D:\Challanges\MarsRovers\MarsRovers.Entity\obj\Debug\MarsRovers.Entity.csprojResolveAssemblyReference.cache
+D:\Challanges\MarsRovers\MarsRovers.Entity\obj\Debug\MarsRovers.Entity.dll
+D:\Challanges\MarsRovers\MarsRovers.Entity\obj\Debug\MarsRovers.Entity.pdb
+D:\Challanges\MarsRovers\MarsRovers.Entity\bin\Debug\MarsRovers.Common.dll
+D:\Challanges\MarsRovers\MarsRovers.Entity\bin\Debug\RPGKit.FantasyNameGenerator.dll
+D:\Challanges\MarsRovers\MarsRovers.Entity\bin\Debug\MarsRovers.Common.pdb

@@ -1,0 +1,64 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="2825752E-1687-4ADA-903C-5E3D2AB62E79/f:Plateau.cs" caret="2257" fromTop="34" />
+    <File id="76D5A544-49DB-4288-BC71-EFFB48FCF0E7/f:CreatePlateauResponse.cs" caret="363" fromTop="16" />
+    <File id="57D027B9-E1F9-448A-8651-72D345E2E0A0/f:IPlateauService.cs" caret="327" fromTop="13" />
+    <File id="57D027B9-E1F9-448A-8651-72D345E2E0A0/f:PlateauService.cs" caret="2179" fromTop="2" />
+    <File id="10ECC24E-B66D-4C4F-BCF9-4CF05BF8F480/f:RepositoryTests.cs" caret="1375" fromTop="13" />
+    <File id="379C687A-4184-4283-BFCA-E725DC18815C/f:Enums.cs" caret="218" fromTop="4" />
+    <File id="76D5A544-49DB-4288-BC71-EFFB48FCF0E7/f:CreateRoverResponse.cs" caret="374" fromTop="16" />
+    <File id="E038C1D8-545A-411A-8096-FC4265B96AC0/f:PlateauRepository.cs" caret="0" fromTop="0" />
+    <File id="E038C1D8-545A-411A-8096-FC4265B96AC0/f:RoverRepository.cs" caret="259" fromTop="10" />
+    <File id="E038C1D8-545A-411A-8096-FC4265B96AC0/f:IRoverRepository.cs" caret="0" fromTop="0" />
+    <File id="E038C1D8-545A-411A-8096-FC4265B96AC0/f:IPlateauRepository.cs" caret="0" fromTop="0" />
+    <File id="76D5A544-49DB-4288-BC71-EFFB48FCF0E7/f:RoverDTO.cs" caret="195" fromTop="9" />
+    <File id="76D5A544-49DB-4288-BC71-EFFB48FCF0E7/f:MoveRoverResponse.cs" caret="307" fromTop="14" />
+    <File id="76D5A544-49DB-4288-BC71-EFFB48FCF0E7/f:MoveRoverRequest.cs" caret="176" fromTop="8" />
+    <File id="2825752E-1687-4ADA-903C-5E3D2AB62E79/f:Rover.cs" caret="924" fromTop="9" />
+    <File id="57D027B9-E1F9-448A-8651-72D345E2E0A0/f:IRoverService.cs" caret="0" fromTop="0" />
+    <File id="379C687A-4184-4283-BFCA-E725DC18815C/f:Helper.cs" caret="637" fromTop="19" />
+    <File id="10ECC24E-B66D-4C4F-BCF9-4CF05BF8F480/f:PlateauTests.cs" caret="0" fromTop="0" />
+    <File id="57D027B9-E1F9-448A-8651-72D345E2E0A0/f:RoverService.cs" caret="2375" fromTop="14" />
+    <File id="01AEBA1D-346C-42FA-B033-1668B0D3D0D2/f:packages.config" caret="1250" fromTop="16" />
+    <File id="01AEBA1D-346C-42FA-B033-1668B0D3D0D2/f:App.config" caret="273" fromTop="7" />
+    <File id="01AEBA1D-346C-42FA-B033-1668B0D3D0D2/f:Program.cs" caret="492" fromTop="11" />
+    <File id="B6C9E041-89D5-49C8-A5E2-9E00FF9AFCAC/f:App.config" caret="274" fromTop="7" />
+    <File id="01AEBA1D-346C-42FA-B033-1668B0D3D0D2/f:Startup.cs" caret="0" fromTop="0" />
+    <File id="91362AFE-48A0-4A79-AEC4-3225973401A7/f:App.config" caret="0" fromTop="0" />
+    <File id="01AEBA1D-346C-42FA-B033-1668B0D3D0D2/f:ServerConnection.cs" caret="447" fromTop="9" />
+    <File id="91362AFE-48A0-4A79-AEC4-3225973401A7/f:Program.cs" caret="1784" fromTop="7" />
+    <File id="B6C9E041-89D5-49C8-A5E2-9E00FF9AFCAC/f:Program.cs" caret="5714" fromTop="40" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="76D5A544-49DB-4288-BC71-EFFB48FCF0E7/f:CreatePlateauResponse.cs" caret="323" fromTop="7" />
+    <File id="B6C9E041-89D5-49C8-A5E2-9E00FF9AFCAC/d:Properties/f:AssemblyInfo.cs" caret="514" fromTop="11" />
+    <File id="379C687A-4184-4283-BFCA-E725DC18815C/f:Enums.cs" caret="724" fromTop="15" />
+    <File id="10ECC24E-B66D-4C4F-BCF9-4CF05BF8F480/f:RepositoryTests.cs" caret="1542" fromTop="14" />
+    <File id="76D5A544-49DB-4288-BC71-EFFB48FCF0E7/f:CreateRoverResponse.cs" caret="355" fromTop="16" />
+    <File id="149A89BC-97CA-4E2E-9B54-D4C55AECF6C1/f:Installer.cs" caret="868" fromTop="17" />
+    <File id="76D5A544-49DB-4288-BC71-EFFB48FCF0E7/f:CreateRoverRequest.cs" caret="405" fromTop="18" />
+    <File id="E038C1D8-545A-411A-8096-FC4265B96AC0/f:IPlateauRepository.cs" caret="397" fromTop="14" />
+    <File id="E038C1D8-545A-411A-8096-FC4265B96AC0/f:PlateauRepository.cs" caret="703" fromTop="18" />
+    <File id="E038C1D8-545A-411A-8096-FC4265B96AC0/f:DataContext.cs" caret="237" fromTop="11" />
+    <File id="2825752E-1687-4ADA-903C-5E3D2AB62E79/f:Plateau.cs" caret="2220" fromTop="17" />
+    <File id="57D027B9-E1F9-448A-8651-72D345E2E0A0/f:IPlateauService.cs" caret="353" fromTop="13" />
+    <File id="57D027B9-E1F9-448A-8651-72D345E2E0A0/f:PlateauService.cs" caret="3028" fromTop="26" />
+    <File id="E038C1D8-545A-411A-8096-FC4265B96AC0/f:IRoverRepository.cs" caret="372" fromTop="14" />
+    <File id="E038C1D8-545A-411A-8096-FC4265B96AC0/f:RoverRepository.cs" caret="641" fromTop="21" />
+    <File id="76D5A544-49DB-4288-BC71-EFFB48FCF0E7/f:MoveRoverResponse.cs" caret="276" fromTop="12" />
+    <File id="57D027B9-E1F9-448A-8651-72D345E2E0A0/f:IRoverService.cs" caret="351" fromTop="15" />
+    <File id="76D5A544-49DB-4288-BC71-EFFB48FCF0E7/f:MoveRoverRequest.cs" caret="258" fromTop="12" />
+    <File id="2825752E-1687-4ADA-903C-5E3D2AB62E79/f:Rover.cs" caret="918" fromTop="9" />
+    <File id="379C687A-4184-4283-BFCA-E725DC18815C/f:Helper.cs" caret="637" fromTop="19" />
+    <File id="57D027B9-E1F9-448A-8651-72D345E2E0A0/f:RoverService.cs" caret="10590" fromTop="11" />
+    <File id="01AEBA1D-346C-42FA-B033-1668B0D3D0D2/f:packages.config" caret="0" fromTop="0" />
+    <File id="01AEBA1D-346C-42FA-B033-1668B0D3D0D2/f:Startup.cs" caret="480" fromTop="18" />
+    <File id="01AEBA1D-346C-42FA-B033-1668B0D3D0D2/f:App.config" caret="252" fromTop="6" />
+    <File id="B6C9E041-89D5-49C8-A5E2-9E00FF9AFCAC/f:App.config" caret="274" fromTop="7" />
+    <File id="01AEBA1D-346C-42FA-B033-1668B0D3D0D2/f:Program.cs" caret="581" fromTop="13" />
+    <File id="91362AFE-48A0-4A79-AEC4-3225973401A7/f:App.config" caret="274" fromTop="7" />
+    <File id="01AEBA1D-346C-42FA-B033-1668B0D3D0D2/f:ServerConnection.cs" caret="694" fromTop="18" />
+    <File id="91362AFE-48A0-4A79-AEC4-3225973401A7/f:Program.cs" caret="1651" fromTop="17" />
+    <File id="B6C9E041-89D5-49C8-A5E2-9E00FF9AFCAC/f:Program.cs" caret="5714" fromTop="13" />
+  </RecentEdits>
+</RecentFiles>

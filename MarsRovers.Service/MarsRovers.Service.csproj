@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{57D027B9-E1F9-448A-8651-72D345E2E0A0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MarsRovers.Service</RootNamespace>
+    <AssemblyName>MarsRovers.Service</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IRoverService.cs" />
+    <Compile Include="IPlateauService.cs" />
+    <Compile Include="PlateauService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RoverService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MarsRovers.DTO\MarsRovers.DTO.csproj">
+      <Project>{76d5a544-49db-4288-bc71-effb48fcf0e7}</Project>
+      <Name>MarsRovers.DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MarsRovers.Entity\MarsRovers.Entity.csproj">
+      <Project>{2825752e-1687-4ada-903c-5e3d2ab62e79}</Project>
+      <Name>MarsRovers.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MarsRovers.Helper\MarsRovers.Common.csproj">
+      <Project>{379c687a-4184-4283-bfca-e725dc18815c}</Project>
+      <Name>MarsRovers.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MarsRovers.Repository\MarsRovers.Repository.csproj">
+      <Project>{e038c1d8-545a-411a-8096-fc4265b96ac0}</Project>
+      <Name>MarsRovers.Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

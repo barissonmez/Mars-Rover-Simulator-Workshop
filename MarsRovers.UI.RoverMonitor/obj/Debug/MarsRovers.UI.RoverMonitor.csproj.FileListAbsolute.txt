@@ -1,0 +1,10 @@
+D:\Challanges\MarsRovers\MarsRovers.UI.RoverMonitor\bin\Debug\MarsRovers.UI.RoverMonitor.exe.config
+D:\Challanges\MarsRovers\MarsRovers.UI.RoverMonitor\bin\Debug\MarsRovers.UI.RoverMonitor.exe
+D:\Challanges\MarsRovers\MarsRovers.UI.RoverMonitor\bin\Debug\MarsRovers.UI.RoverMonitor.pdb
+D:\Challanges\MarsRovers\MarsRovers.UI.RoverMonitor\obj\Debug\MarsRovers.UI.RoverMonitor.csprojResolveAssemblyReference.cache
+D:\Challanges\MarsRovers\MarsRovers.UI.RoverMonitor\obj\Debug\MarsRovers.UI.RoverMonitor.exe
+D:\Challanges\MarsRovers\MarsRovers.UI.RoverMonitor\obj\Debug\MarsRovers.UI.RoverMonitor.pdb
+D:\Challanges\MarsRovers\MarsRovers.UI.RoverMonitor\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\Challanges\MarsRovers\MarsRovers.UI.RoverMonitor\bin\Debug\Newtonsoft.Json.dll
+D:\Challanges\MarsRovers\MarsRovers.UI.RoverMonitor\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\Challanges\MarsRovers\MarsRovers.UI.RoverMonitor\bin\Debug\Newtonsoft.Json.xml
